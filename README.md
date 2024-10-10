@@ -16,4 +16,5 @@ Aqui de realizan las practicas en Django que es un Framework Marco de trabajo UI
 - 14 vuelve a ejecutar el servidor
 
 -![image](https://github.com/user-attachments/assets/2244b42c-25b6-43df-aac0-30503ee06bfa)
+-![image](https://github.com/user-attachments/assets/b9906c8d-9cb8-4e41-b3cd-aa62cff26251)
 

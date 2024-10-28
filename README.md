@@ -11,10 +11,14 @@ Aqui de realizan las practicas en Django que es un Framework Marco de trabajo UI
 - 9  Actualizar pip --> python -m pip install --upgrade pip
 - 10 Instalar Framework de Django --> python -m pip install django
 - 11 Crear el proyecto en python Django --> django-admin startproject cbtis1285J1289 .
+- python -m django startproject backend_algo .
 - 12 Ejecutar el servidor --> python manage.py runserver
 - 13 Realizar migracion --> python manage.py migrate
 - 14 vuelve a ejecutar el servidor
-
+- python manage.py startapp algo_app
+- py manage.py createsuperuser
+- python manage.py makemigrations
+- python manage.py migrate
 -![image](https://github.com/user-attachments/assets/2244b42c-25b6-43df-aac0-30503ee06bfa)
 -![image](https://github.com/user-attachments/assets/b9906c8d-9cb8-4e41-b3cd-aa62cff26251)
 
